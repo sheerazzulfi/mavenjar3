@@ -35,9 +35,9 @@
 
 
   <scm>
-      <connection>scm:git:git@github.com/sheerazzulfi/maven-jar.git</connection>
-      <developerConnection>scm:git:ssh://github.com/sheerazzulfi/maven-jar.git</developerConnection>
-      <url>https://github.com/sheerazzulfi/maven-jar/main</url>
+      <connection>scm:git:git://github.com/sheerazzulfi/mavenjar3.git</connection>
+      <developerConnection>scm:git:ssh://github.com/sheerazzulfi/mavenjar3.git</developerConnection>
+      <url>https://github.com/sheerazzulfi/mavenjar3/main</url>
     </scm>
 
   <dependencies>
@@ -132,7 +132,7 @@
   </snapshotRepository>
   <repository>
     <id>ossrh</id>
-    <url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2</url>
+    <url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/</url>
   </repository>
 </distributionManagement>
 	
@@ -168,3 +168,4 @@
 	
 </project>
 
+ 
